@@ -4,11 +4,9 @@
 }
 .left{
     background-color: rgb(2, 45, 56); 
-    width:35%;
 }
 .right{
     background-color: rgb(255, 255, 255); 
-    width:65%;
     text-align: left;
     margin-top: 4rem ;
 }
@@ -31,7 +29,7 @@ hr{
     margin: 0px;
 }
 .right-hr{
-    border: 1px solid ;
+    border: 0.5px solid ;
     background-color: rgb(2, 45, 56);
     margin-top: 0px;
 }
