@@ -1,0 +1,30 @@
+.container{
+    width:auto;
+}
+.left{
+    background-color: rgb(2, 45, 56); 
+    width:30%;
+}
+.right{
+    background-color: rgb(255, 255, 255); 
+    width:70%;
+}
+img{
+    height: 20rem;
+    width: 20rem;
+    margin-top: 6rem;
+    margin-left: 27%;
+}
+.contact{
+    margin-left: 0.5rem;
+}
+h3{
+    color:rgb(6, 116, 144) ;
+    margin-bottom: 0px;
+}
+h5{
+    color: white;
+}
+hr{
+    margin: 0px;
+}
