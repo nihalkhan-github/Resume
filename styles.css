@@ -1,25 +1,27 @@
 .container{
     width:auto;
+    text-align: center;
 }
 .left{
     background-color: rgb(2, 45, 56); 
-    width:30%;
+    width:35%;
 }
 .right{
     background-color: rgb(255, 255, 255); 
-    width:70%;
+    width:65%;
+    text-align: left;
+    margin-top: 4rem ;
 }
 img{
     height: 20rem;
     width: 20rem;
     margin-top: 6rem;
-    margin-left: 27%;
 }
 .contact{
-    margin-left: 0.5rem;
+    text-align: left;
 }
 h3{
-    color:rgb(6, 116, 144) ;
+    color:rgb(21, 101, 121) ;
     margin-bottom: 0px;
 }
 h5{
@@ -27,4 +29,9 @@ h5{
 }
 hr{
     margin: 0px;
+}
+.right-hr{
+    border: 1px solid ;
+    background-color: rgb(2, 45, 56);
+    margin-top: 0px;
 }
